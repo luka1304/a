@@ -2,7 +2,7 @@
 
 namespace prvi.c
 {
-    class Program
+    class Prva
     {
         static void Main(string[] args)
         {
