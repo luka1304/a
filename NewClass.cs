@@ -5,7 +5,7 @@ namespace prvi.c
     class X{
     
     }
-    class Program
+    class Y
     {
         static void Main(string[] args)
         {
